@@ -5,11 +5,8 @@
 Our team worked together to create mock FourSquare app allows users to search for, navigate to, save restaurants/venues/activities in different locations. (Pretty much like the actual foursquare app).
 
 ## Screenshots
-
-![homescreen](FoursquareGroupProject/NewAssets/homescreen.png)
-![detailscreen](FoursquareGroupProject/NewAssets/detailview.png)
-![favoritescreen](FoursquareGroupProject/NewAssets/collectionview.png)
-![tableviewscreen](FoursquareGroupProject/NewAssets/tableview.png)
+<img src="FoursquareGroupProject/NewAssets/homescreen.png" width="305" height="700" /><img src="FoursquareGroupProject/NewAssets/detailview.png" width="305" height="700" />
+<img src="FoursquareGroupProject/NewAssets/collectionview.png" width="305" height="700" /><img src="FoursquareGroupProject/NewAssets/tableview.png" width="305" height="700" />
 
 ## Code Snippet
 
